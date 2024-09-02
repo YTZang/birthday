@@ -1,0 +1,23 @@
+{
+  "greeting": "Hiya, ",
+  "name": "Liu HK",
+  "greetingText": "Congratulations on being born a really long time ago!", 
+  "wishText": "May the js.prototypes always be with you! ;)",
+  "imagePath": "img/lhk2.png",
+  "text1": "It's your birthday!!! 03/09/1999",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "Every once in a while, you find someone who's iridescent, and when you do, nothing will ever compare",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
