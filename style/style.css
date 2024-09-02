@@ -250,14 +250,14 @@ body {
 @media screen and (max-height: 700px) {
   .six .hat {
 /*     left: 32%; */
-    left: 70%;
+    left: 60%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
 /*     left: 32%; */
-    left: 75%;
+    left: 99%;
   }
 }
 
