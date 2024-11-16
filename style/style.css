@@ -127,7 +127,7 @@ body {
   width: 80px;
   top: +30%;
   left: 10%;
-   /*transform: scale(2.0);*/
+   transform: scale(2.0);
 }
 
 .baloons img {
